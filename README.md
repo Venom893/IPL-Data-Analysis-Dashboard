@@ -116,18 +116,25 @@ Reconnect:
     - ipl_matches_data.csv
 
 Step 4: Explore Dashboard
+
     Use filters/slicers to:
+    
         - Select seasons
+        
         - Compare teams
+        
         - Analyze performance
+        
 
 💡 Use Cases
+
     📊 Data analytics practice project
     🎓 Academic submission / mini project
     💼 Portfolio project for data analyst roles
     🏏 Sports analytics exploration
 
 🔮 Future Enhancements
+
     - Add player-level statistics (runs, wickets)
     - Integrate real-time IPL data APIs
     - Add predictive analytics (win probability)
