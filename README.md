@@ -32,9 +32,13 @@ It is designed to help users explore IPL data visually and make data-driven obse
 Contains information about IPL teams:
 
 team_id → Unique ID for each team
+
 team_name → Name of the team
+
 short_name → Abbreviation (e.g., MI, RCB)
+
 image_url → Team logo
+
 
 2. ipl_matches_data.csv
 
