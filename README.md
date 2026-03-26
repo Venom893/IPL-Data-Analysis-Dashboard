@@ -62,22 +62,37 @@ result → Win/other outcomes
 📊 Features of the Dashboard
 
 🏏 Team Performance Analysis
+
       - Total matches played
+      
       - Wins by each team
+      
 📅 Season-wise Insights
+
       - Performance trends across IPL seasons
+      
 🌍 Venue Analysis
+
       - Matches played across different cities/stadiums
+      
 ⭐ Player Highlights
+
       - Player of the Match statistics
+      
 📈 Interactive Visualizations
+
       - Filters (slicers) for season, team, etc.
+      
       - Dynamic charts and graphs
       
 🛠️ Tools & Technologies Used
+
       - Power BI Desktop → Data visualization & dashboard creation
+      
       - CSV Files → Data source
+      
       - DAX (Data Analysis Expressions) → Calculations & measures
+      
       
 ▶️ How to Run the Project
 
