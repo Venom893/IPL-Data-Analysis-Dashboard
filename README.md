@@ -43,13 +43,21 @@ image_url → Team logo
 2. ipl_matches_data.csv
 
 Contains match-level details:
+
 match_id → Unique match identifier
+
 season_id → IPL season
+
 team1, team2 → Competing teams
+
 winner → Match winner
+
 player_of_match → Best player
+
 venue, city → Match location
+
 result → Win/other outcomes
+
 
 📊 Features of the Dashboard
 
