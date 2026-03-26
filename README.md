@@ -15,10 +15,15 @@ Trends and comparisons across IPL seasons
 It is designed to help users explore IPL data visually and make data-driven observations.
 
 📁 Project Structure
+
 ├── shashiuu.pbix                # Main Power BI report file
+
 ├── teams_data.csv               # Dataset containing IPL teams info
+
 ├── ipl_matches_data.csv         # Dataset containing match-level data
+
 └── README.md                   # Project documentation
+
 
 📂 Dataset Description
 
